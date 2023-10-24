@@ -2,10 +2,10 @@
 # Spuštění
 # Průběh hry
 
-Obecné informace
+OBECNÉ INFORMACE:
 ----------------
-Název: Get The Word
-Programovací jazyk: Python
+Název: Get The Word.
+Programovací jazyk: Python.
 
 SPUŠTĚNÍ:
 ---------
