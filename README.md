@@ -1,3 +1,3 @@
 # prvni_hra
 
-## Spuštění:
+# Spuštění:
